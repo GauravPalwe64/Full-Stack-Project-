@@ -1,0 +1,9 @@
+body{background:#f8f9fa;font-family:Arial,sans-serif}
+.hero{
+height:70vh;
+background:linear-gradient(rgba(0,0,0,.55),rgba(0,0,0,.55)),
+url("https://images.unsplash.com/photo-1542314831-068cd1dbfeeb?w=1600") center/cover no-repeat;
+}
+.card{border:none;border-radius:15px;transition:.3s}
+.card:hover{transform:translateY(-6px)}
+footer p{margin:4px}
